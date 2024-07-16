@@ -4,10 +4,10 @@ const Random = () => {
   let users = [
     "Nashe",
     "Kuda",
-    "Vincent",
+    "Mugondora",
     "Alicia",
     "Duke",
-    "Chaks",
+    "Chakauya",
     "Tinashe",
     "Wayne",
     "Bryan",
